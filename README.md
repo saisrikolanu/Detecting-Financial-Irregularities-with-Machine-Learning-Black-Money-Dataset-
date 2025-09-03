@@ -79,5 +79,5 @@ Metrics used: **Accuracy, Precision, Recall, F1 Score, Confusion Matrix**
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/black-money-ml.git
+   git clone https://github.com/saisrikolanu/black-money-ml.git
    cd black-money-ml
