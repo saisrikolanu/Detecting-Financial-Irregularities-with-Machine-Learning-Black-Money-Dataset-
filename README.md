@@ -79,5 +79,6 @@ Metrics used: **Accuracy, Precision, Recall, F1 Score, Confusion Matrix**
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/saisrikolanu/black-money-ml.git
-   cd black-money-ml
+  git clone https://github.com/saisrikolanu/Detecting-Financial-Irregularities-with-Machine-Learning-Black-Money-Dataset-.git
+cd Detecting-Financial-Irregularities-with-Machine-Learning-Black-Money-Dataset-
+
